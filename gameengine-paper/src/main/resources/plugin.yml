@@ -1,0 +1,6 @@
+name: GameEngine
+version: ${version}
+main: com.gameengine.paper.GameEnginePlugin
+api-version: '1.20'
+author: GameEngine
+description: Custom minigame creation framework.
